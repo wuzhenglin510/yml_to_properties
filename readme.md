@@ -1,4 +1,4 @@
-####功能
+#### 功能
 ---
 多个yaml文件合并成一个properties文件，多个yaml文件包含同样的属性，会合并属性及子属性，并且最底层的子属性，后者会替换前者的
 
@@ -22,7 +22,7 @@ mq.apple.queue=apple-queue-pre
 mq.apple.nothing=here
 ```
 
-####怎么使用
+#### 怎么使用
 ```bash
 npm i yml_tool -g
 
