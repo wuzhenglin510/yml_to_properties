@@ -1,6 +1,6 @@
 {
   "name": "yml_tool",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "多个yaml文件合并成一个properties文件，多个yaml文件包含同样的属性，会合并属性及子属性，并且最底层的子属性，后者会替换前者的",
   "main": "index.js",
   "bin": {

@@ -26,5 +26,8 @@ mq.apple.nothing=here
 ```bash
 npm i yml_tool -g
 
+类unix系统上，如果安装报没权限，前面加上sudo 
+sudo npm i yml_tool -g
+
 y2p --files=f1.yml,f2.yml
 ```
